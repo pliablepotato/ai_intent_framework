@@ -19,8 +19,8 @@ Use this checklist to self-assess any AI-assisted project or activity:
 
 AI must not shortcut the path to expertise. Use it only after you've meaningfully engaged with the topic yourself.
 
-- Am I bypassing meaningful learning or effort?  
 - Would I understand more or grow if I did this myself?  
+- Can I discern correctness in the ideas and answers this AI generates?  
 - Should I instead use AI and other resources to learn this concept thoroughly before relying on AI as the output?
 
 ---
@@ -40,8 +40,8 @@ You should be capable of doing the work yourself, even if more slowly or imperfe
 AI may assist, but your vision, intent, and critical input must remain central.
 
 - Did I shape both the intent and the result through my own labor and judgment?  
-- Can I discern correctness in the ideas and answers this AI generates?  
 - Are the final ideas ultimately my own?
+- Am I meaningfully contributing, altering and shaping the output through direct manipulation of the content and context?
 
 ---
 
@@ -49,8 +49,9 @@ AI may assist, but your vision, intent, and critical input must remain central.
 
 Any use of AI must be clearly disclosed, especially when shared publicly or commercially.
 
-- Have I tracked and documented how I’ve used AI accurately?  
+- Have I tracked and documented how I've used AI accurately?  
 - Would someone reviewing this work know exactly where AI was involved?
+- Am I using the to generated profit and or replacing human expertise?
 
 ---
 
@@ -60,17 +61,19 @@ Think beyond your own project. AI use impacts ecosystems, creators, and communit
 
 - Would it be fair to others if this AI use became the norm?  
 - Does sharing this piece of AI content affect the visibility or recognition of someone else's work?
+- Am I meaningfully contributing the the community of work within my domain ?
 
 ---
 
-### 6. 🛠️ Accessibility is a valid use, but not a loophole.
+### 6. Accessibility is a valid use, but not a loophole.
 
 If AI enables access, use it. But don’t overreach. Transparency still applies.
 
-- Am I being honest and limited in how AI helps me express myself?  
-- Could I otherwise use tools or support to express myself despite limitations?
+- Am I being honest and limiting how AI helps me express myself?  
+- Could I otherwise use tools or support to express myself despite these limitations?
 
 ## AI Use Summary Table
+*AI Assisted based on principles*
 
 | Use Case                             | Allowed? | Conditions                                                       |
 |------------------------------------|----------|------------------------------------------------------------------|
